@@ -1,5 +1,5 @@
 # ALX Data Science Program
-**Timeline: [Add Year, e.g., 2026 - 2027]**
+**Timeline: [2026 - 2027]**
 
 While my Data Analytics repository focuses on reporting and business intelligence, this repository is dedicated to the predictive and algorithmic side of my skill set, developed through ALX Africa.
 
