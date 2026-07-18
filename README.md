@@ -1,4 +1,4 @@
-# ALX Data Science Portfolio 🧠🌱
+# ALX Data Science Portfolio
 
 **Building predictive models and ML pipelines to solve complex challenges in African agrifood systems.**
 
@@ -6,7 +6,7 @@ Welcome to my Data Science portfolio. While my background in Agriculture (Drylan
 
 ---
 
-## 🏗️ Core Curriculum & Skill Progression
+## Core Curriculum & Skill Progression
 
 This table outlines the foundational modules completed during the program, the technical focus of each, and the resulting capabilities.
 
@@ -25,37 +25,37 @@ This table outlines the foundational modules completed during the program, the t
 
 ---
 
-## 🚀 Applied Projects: Agrifood & Climate AI
+## Applied Projects: Agrifood & Climate AI
 
 The projects below represent the practical application of the ALX curriculum. They are designed to replace manual processes with scalable AI systems, optimize supply chains, and leverage data for agricultural resilience in Kenya and broader Africa.
 
-### 1. Geospatial Crop Recommendation Engine 🌍
+### 1. Geospatial Crop Recommendation Engine
 * **Module Application:** `08-Recommendation-Systems` & `07-Unsupervised-Learning`
 * **Description:** A collaborative filtering and clustering engine built to support smallholder farmers. By ingesting localized soil data, historical weather patterns, and regional topography, the system recommends optimal crop varieties. 
 * **Impact:** Moves beyond generic farming advice to provide hyper-localized, data-backed planting strategies.
 
-### 2. Post-Harvest Supply Chain Bottleneck Classifier 🚛
+### 2. Post-Harvest Supply Chain Bottleneck Classifier
 * **Module Application:** `05-Supervised-Learning-II` & `06-Supervised-Learning-III`
 * **Description:** Utilized Random Forests and Gradient Boosting classifiers on imbalanced logistics datasets to predict the likelihood of fresh produce spoilage during transit. The model evaluates variables such as route temperature, road conditions, and vehicle type.
 * **Impact:** Allows agribusinesses and NGOs to preemptively identify high-risk shipments and reroute logistics to minimize food loss.
 
-### 3. Yield Prediction via Advanced Regression 🌽
+### 3. Yield Prediction via Advanced Regression
 * **Module Application:** `04-Supervised-Learning-I`
 * **Description:** A production-ready regression model utilizing scikit-learn to forecast dryland crop yields. The model accounts for rainfall variability, drought indexes, and historical harvest data, employing strict regularization techniques to prevent overfitting.
 * **Impact:** Translates complex climate risk into actionable yield forecasts for policymakers and agricultural insurers.
 
-### 4. Swahili-English Agritech NLP Pipeline 💬
+### 4. Swahili-English Agritech NLP Pipeline
 * **Module Application:** `09-Natural-Language-Processing`
 * **Description:** Built a robust NLP pipeline using Hugging Face Transformers and TF-IDF vectorization to process unstructured, bilingual text messages from farmers. The system classifies intent (e.g., pest identification, market price queries) without requiring extensive manual training data.
 * **Impact:** Lays the groundwork for automated, AI-driven agricultural extension services accessible via basic SMS or WhatsApp.
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 * **Languages:** Python, SQL
 * **Data Manipulation & Analysis:** Pandas, NumPy, SciPy
 * **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, Hugging Face
 * **Version Control & DevOps:** Git, GitHub, AI Coding Assistants
 * **Visualization:** Matplotlib, Seaborn, Plotly
 
-📫 **Open to roles in Data Analysis, AI Automation, and Agritech.** Reach out to discuss how we can build smarter food systems together.
+**Open to roles in Data Analysis, AI Automation, and Agritech.** Reach out to discuss how we can build smarter food systems together.
